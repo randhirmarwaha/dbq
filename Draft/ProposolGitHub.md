@@ -24,4 +24,7 @@ Following will the benefits of the course:
 3. Able to store records on a central location which will be accessible by the authentic persons.
 4. Able to create the own web pages using github.
 5. Able to create the discussion forms.
+6. Users will be able to notice pending tasks and can give valueable input to the other persons.
+7. The status of work in progress can be monitored in real time remotely.
+8. The repition of information will be avoided and information shared on the platform can be helpful to many others who are facing similar problems or doing partially of fully matching tasks at some other platform.
 
